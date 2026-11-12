@@ -1,0 +1,13 @@
+# Variables de entorno y secretos local
+.env
+
+# Entornos virtuales
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Docker y temporales
+.dockerignore
+dist/
+*.egg-info/
